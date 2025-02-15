@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: your-dockerhub-username/task-executor-api:latest
+          tags: ghuru001/task-executor-api:latest
